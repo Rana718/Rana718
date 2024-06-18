@@ -1,6 +1,6 @@
 # Hi, I'm Rana Dolui 👋
 
-![Profile Banner](https://your-banner-image-url.com)
+
 
 ## About Me
 
@@ -16,7 +16,7 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 
 ## GitHub Stats
 
-![Rana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luciferair&show_icons=true&theme=radical)
+![Rana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rana718&show_icons=true&theme=radical)
 
 ## Technologies & Tools
 
@@ -41,6 +41,6 @@ Check out some of my projects:
 ## Connect with Me
 
 - Twitter: [@Ranad187](https://twitter.com/Ranad187)
-- GitHub: [Luciferair](https://github.com/Rana718)
+- GitHub: [Rana718](https://github.com/Rana718)
 
 Let's connect and create something amazing together!
