@@ -35,6 +35,9 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
 
 ## Projects
 
@@ -42,7 +45,7 @@ Check out some of my projects:
 
 - [Chatting Web Application](https://github.com/Rana718/chatting-web-application)
 - [Web AI](https://github.com/Rana718/web-AI)
-- 
+- [tic tac toe](https://github.com/Rana718/tic-tac-toe)
 
 ## Connect with Me
 
