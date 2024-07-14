@@ -10,7 +10,7 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 - 🌱 I’m interested in Web Development, Web3, AI/ML, and Cybersecurity
 - 👯 I’m looking to collaborate on projects related to my interests
 - 💬 Ask me about anything related to my interests
-- ✉️  You can contact me at[ranadolui718@gmail.com](mailto:ranadolui718@gmail.com)
+- ✉️  You can contact me at [ranadolui718@gmail.com](mailto:ranadolui718@gmail.com)
 - 📫 How to reach me: [Twitter](https://twitter.com/Ranad187)
 - 🌟 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy playing cricket in my free time
