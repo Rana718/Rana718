@@ -10,6 +10,8 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 - 📫 How to reach me: [Twitter](https://twitter.com/Ranad187)
 - 🌟 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy playing cricket in my free time
+- 💬 Join my [coding community on Discord](https://discord.gg/nXj2Cp7w)
+
 
 ## 🚀 Technologies & Tools
 
@@ -46,6 +48,8 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 ## 🌐 Connect with Me
