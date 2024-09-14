@@ -53,6 +53,8 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-007DFF?style=for-the-badge&logo=drizzle&logoColor=white)
+
 
 
 
