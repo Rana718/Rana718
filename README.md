@@ -14,18 +14,31 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 
 
 # 🚀 Technologies & Tools
-## Languages
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,c,cpp,go,python,rust,java,kotlin,bash,powershell)
-## Frameworks
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,expo,redux,threejs,nodejs,expressjs,nextjs,tailwind,bootstrap,django,flask,fastapi,pygame,pytorch)
-## Databases
+## Languages  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,c,cpp)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,python,rust,java,kotlin,bash)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=powershell)
+
+## Frameworks  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,expo,redux,threejs,nodejs)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expressjs,nextjs,tailwind,bootstrap,django,flask)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,pygame,pytorch)
+
+## Databases  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,firebase)
-# DevOps
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,nginx,ngrok,docker,cloudflare,render,vercel)
-# IDES
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,visualstudio,idea,pycharm,neovim,vim)
-# Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,blender,vite,postman,git,github,githubactions,wsl,linux,htop)
+
+## DevOps  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,nginx,ngrok,docker,cloudflare,render)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vercel)
+
+## IDEs  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,visualstudio,idea,pycharm,neovim)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim)
+
+## Tools  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,blender,vite,postman,git,github)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubactions,wsl,linux,htop)
+
 
 
 
