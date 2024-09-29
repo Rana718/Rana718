@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"  
   workflow_dispatch:
 
 jobs:
@@ -13,19 +13,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4.2.0
 
-      - name: Generate Snake GIF
-        uses: Platane/snk@v3.2.0 
+      - name: Generate Snake GIF and SVGs
+        uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: Rana718
-          color_snake: "#8AB4F8" 
-          color_dots: "#FFFFFF, #6B6B6B"  
-          color_background: "#0D1117" 
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
 
+          
           outputs: |
-            dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake.svg
+            dist/github-snake.svg                   
+            dist/github-snake-dark.svg?palette=github-dark  
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9  
 
       - name: Check generated files
         run: |
