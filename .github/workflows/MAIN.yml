@@ -15,11 +15,22 @@ jobs:
 
       - name: Generate Snake GIF
         uses: Platane/snk@v3.2.0 
-
         id: snake-gif
         with:
           github_user_name: Rana718
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          
+          outputs: |
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake.svg
+
+      - name: Check generated files
+        run: |
+          if [ ! -d "dist" ]; then
+            echo "Directory 'dist' does not exist."
+            exit 1
+          fi
+          ls -la dist  # List files in the 'dist' directory for debugging
 
       - name: Git Status
         run: git status
