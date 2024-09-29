@@ -28,8 +28,8 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,firebase)
 
 ## DevOps  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,nginx,ngrok,docker,cloudflare,render)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vercel)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,nginx,githubactions,ngrok,docker,cloudflare)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vercel,render)
 
 ## IDEs  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,visualstudio,idea,pycharm,neovim)  
@@ -37,7 +37,7 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 
 ## Tools  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,blender,vite,postman,git,github)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubactions,wsl,linux,htop)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wsl,linux,htop)
 
 
 
