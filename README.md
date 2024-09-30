@@ -59,12 +59,7 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=Rana718&icon=0&color=0)
 
-<!-- ## 💼 Projects
 
-Check out some of my projects:
-
-- [Password Manager](https://github.com/Rana718/PassGuard)
-- [Tic Tac Toe](https://github.com/Rana718/tic-tac-toe)
 
 
 Let's connect and create something amazing together! -->
