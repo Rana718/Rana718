@@ -37,7 +37,7 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 
 ## Tools  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,blender,vite,postman,git,github)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wsl,linux,htop,zed,jetpackcompose)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wsl,linux,htop,gradle,jetpackcompose)
 
 
 
