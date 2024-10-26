@@ -22,7 +22,7 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 ## Frameworks  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,expo,redux,threejs,nodejs)  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expressjs,nextjs,tailwind,bootstrap,django,flask)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,pygame,pytorch)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,pygame,pytorch,meteorjs)
 
 ## Databases  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,firebase)
@@ -33,11 +33,11 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 
 ## IDEs  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,visualstudio,idea,pycharm,neovim)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim,zed)
 
 ## Tools  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,blender,vite,postman,git,github)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wsl,linux,htop)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wsl,linux,htop,zed,jetpackcompose)
 
 
 
