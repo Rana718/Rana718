@@ -19,10 +19,10 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,python,rust,java,kotlin,bash)  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=powershell)
 
-## Frameworks  
+## Frameworks/Libraries 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,expo,redux,threejs,nodejs)  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expressjs,nextjs,tailwind,bootstrap,django,flask)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,pygame,pytorch,meteorjs)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,pygame,pytorch,meteorjs,selenium)
 
 ## Databases  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,firebase,prisma)
