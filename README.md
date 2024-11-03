@@ -25,7 +25,7 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,pygame,pytorch,meteorjs)
 
 ## Databases  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,firebase, prisma)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,firebase,prisma)
 
 ## DevOps  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,nginx,githubactions,ngrok,docker,cloudflare)  
