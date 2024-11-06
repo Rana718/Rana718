@@ -15,30 +15,24 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 
 # 🚀 Technologies & Tools
 ## Languages  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,c,cpp)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,python,rust,java,kotlin,bash)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=powershell)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,c,cpp,go,python,rust,java,kotlin,bash,powershell&perline=12)  
+
 
 ## Frameworks/Libraries 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,expo,redux,threejs,nodejs)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expressjs,nextjs,tailwind,bootstrap,django,flask)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,pygame,pytorch,meteorjs,selenium)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,reactnative,expo,redux,threejs,nodejs,expressjs,hono,tailwind,bootstrap,django,flask,fastapi,pygame,pytorch,meteorjs,selenium&perline=12)  
+
 
 ## Databases  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,firebase,prisma)
 
 ## DevOps  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,nginx,githubactions,ngrok,docker,cloudflare)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vercel,render)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,nginx,githubactions,ngrok,docker,cloudflare,vercel,render)
 
 ## IDEs  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,visualstudio,idea,pycharm,neovim)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim,zed)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,visualstudio,idea,pycharm,neovim,vim,zed)  
 
 ## Tools  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,blender,vite,postman,git,github)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wsl,linux,htop,gradle,jetpackcompose)
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bun,deno,git,vite,gradle,jetpackcompose,github,postman,wsl,linux,htop,figma,blender)  
 
 
 
@@ -51,7 +45,7 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 
 ![Rana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rana718&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rana718&stroke=F7B267&background=1E1E2E&ring=E06C75&fire=E06C75&currStreakNum=F7B267&currStreakLabel=98C379&sideNums=E06C75&sideLabels=98C379&dates=61AFEF&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rana718&layout=compact&theme=dark)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rana718&layout=compact&theme=dark)-->
 - Here’s a fun representation of my GitHub contributions!
 ![snake gif](https://github.com/Rana718/Rana718/blob/output/github-snake-dark.svg)
 
