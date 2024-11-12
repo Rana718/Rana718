@@ -49,8 +49,6 @@ I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cyberse
 - Here’s a fun representation of my GitHub contributions!
 ![snake gif](https://github.com/Rana718/Rana718/blob/output/github-snake-dark.svg)
 
-
-
 ![Profile Views](https://visitcount.itsvg.in/api?id=Rana718&icon=0&color=0)
 
 
