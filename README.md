@@ -3,7 +3,6 @@
 I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cybersecurity. I'm constantly pushing my boundaries to learn and innovate in these fields. I love collaborating on interesting projects and am always open to new opportunities and challenges.
 
 
-
 - 🔭 I’m currently pursuing my BTech
 - 🌱 I’m interested in Web Development, Web3, AI/ML, and Cybersecurity
 - 👯 I’m looking to collaborate on projects related to my interests
