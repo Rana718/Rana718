@@ -1,18 +1,24 @@
-# Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Rana Dolui 
+# 👋 Hi there, I'm Rana Dolui! 
 
+## 🌟 About Me
 
-I'm a BTech student with a passion for Web Development, Web3, AI/ML, and Cybersecurity. I'm constantly pushing my boundaries to learn and innovate in these fields. I love collaborating on interesting projects and am always open to new opportunities and challenges.
+I'm a passionate **BTech student** diving deep into the worlds of:
+- 🌐 Web Development
+- 🔗 Web3
+- 🤖 AI/ML
+- 🛡️ Cybersecurity
 
-- 🔭 I’m currently pursuing my BTech
-- 🌱 I’m interested in Web Development, Web3, AI/ML, and Cybersecurity
-- 👯 I’m looking to collaborate on projects related to my interests
-- 💬 Ask me about anything related to my interests
-- ✉️ You can contact me at [ranadolui718@gmail.com](mailto:ranadolui718@gmail.com)
-- 📫 How to reach me: [Twitter](https://twitter.com/Ranad187)
-- 🌟 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy playing cricket in my free time
-- 💬 Join my [coding community on Discord](https://discord.gg/nXj2Cp7w)
+### 🚀 Quick Highlights
 
+- 🎓 Currently pursuing my BTech degree
+- 💡 Constantly pushing boundaries and learning
+- 🤝 Open to exciting collaborations and challenges
+
+## 💬 Connect With Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ranad187)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-dolui-89357728a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranadolui718@gmail.com)
 
 # 🚀 Technologies & Tools
 ## Languages  
