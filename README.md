@@ -1,31 +1,30 @@
+# 👋 Hi there, I'm Rana Dolui!  
 
-# 👋 Hi there, I'm Rana Dolui! 
-## 🌟 About Me
-I'm a passionate **BTech student** diving deep into the worlds of:
+## 🌟 About Me  
+I'm a passionate **BTech student** diving deep into the worlds of:  
 - 🌐 Web Development
-- 🔗 Web3
-- 🤖 AI/ML
-- 🛡️ Cybersecurity
+- 📱 App Development 
+- 🔗 Web3  
+- 🤖 AI/ML  
+- 🛡️ Cybersecurity   
 
-### 🚀 Quick Highlights
+### 🚀 Quick Highlights  
+- 🎓 Currently pursuing my BTech degree  
+- 💡 Constantly pushing boundaries and learning  
+- 🤝 Open to exciting collaborations and challenges  
 
-- 🎓 Currently pursuing my BTech degree
-- 💡 Constantly pushing boundaries and learning
-- 🤝 Open to exciting collaborations and challenges
 
-## 💬 Connect With Me
+## 💬 Connect With Me  
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://rana-dolui.vercel.app/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ranad187)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-dolui-89357728a/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranadolui718@gmail.com)  
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ranad187)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-dolui-89357728a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranadolui718@gmail.com)
 
 # 🚀 Technologies & Tools
 ## Languages  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,c,cpp,go,python,rust,java,kotlin,bash,powershell&perline=12)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,c,cpp,go,python,rust,java,kotlin,solidity,bash,powershell&perline=12)  
 
 
 ## Frameworks/Libraries 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,reactnative,expo,redux,threejs,nodejs,expressjs,hono,tailwind,bootstrap,django,flask,fastapi,pygame,pytorch,meteorjs,selenium&perline=12)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,reactnative,expo,redux,zustand,threejs,nodejs,expressjs,hono,tailwind,bootstrap,django,flask,fastapi,pygame,pytorch,meteorjs,selenium&perline=12)  
 
 
 ## Databases  
@@ -38,14 +37,10 @@ I'm a passionate **BTech student** diving deep into the worlds of:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,visualstudio,idea,pycharm,neovim,vim,zed)  
 
 ## Tools  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bun,deno,git,vite,gradle,jetpackcompose,github,postman,wsl,linux,htop,figma,blender)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pnpm,bun,deno,git,vite,gradle,jetpackcompose,github,postman,wsl,htop,figma,blender)  
 
-
-
-## 🌐 Connect with Me
-
-[![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/Ranad187)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-dolui-89357728a/)
+## Familiar Operating Systems  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,arch,kali)
 
 ## 📊 GitHub Stats
 
