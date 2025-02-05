@@ -20,42 +20,42 @@ I'm a passionate **BTech student** diving deep into the worlds of:
 
 # 🚀 Technologies & Tools
 ## Languages  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,c,cpp,go,python,rust,java,kotlin,solidity,bash,powershell&perline=12)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,c,cpp,go,python,rust,kotlin,solidity,bash,powershell&perline=12)  
 
 
 ## Frameworks/Libraries 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,reactnative,expo,redux,zustand,threejs,nodejs,expressjs,hono,tailwind,bootstrap,django,flask,fastapi,pygame,pytorch,meteorjs,selenium&perline=12)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,reactnative,expo,redux,zustand,authjs,clerk,threejs,tailwind,bootstrap,nodejs,expressjs,hono,django,flask,fastapi,meteorjs,socketio,selenium&perline=12)  
 
 
 ## Databases  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,firebase,prisma)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,firebase,redis,prisma,drizzle)
 
 ## DevOps  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,nginx,githubactions,ngrok,docker,cloudflare,vercel,render)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,githubactions,ngrok,aws,nginx,cloudflare,vercel,render,railway)
 
 ## IDEs  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,visualstudio,idea,pycharm,neovim,vim,zed)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=neovim,vim,vscode,zed,androidstudio,visualstudio,idea,pycharm)  
 
 ## Tools  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pnpm,bun,deno,git,vite,gradle,jetpackcompose,github,postman,wsl,htop,figma,blender)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pnpm,bun,deno,gradle,git,vite,jetpackcompose,github,postman,wsl,htop,figma)  
 
 ## Familiar Operating Systems  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,arch,kali)
 
 ## 📊 GitHub Stats
 
-<img alt="Rana718's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rana718&show_icons=true&theme=radical&icon_color=FF6F61"/>
+![Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rana718&show_icons=true&theme=radical)
 
 <a href="http://www.github.com/Rana718"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rana718&stroke=FF6F61&background=1E1E2E&ring=FF6F61&fire=FF6F61&currStreakNum=FF6F61&currStreakLabel=FF6F61&sideNums=FF6F61&sideLabels=FF6F61&dates=FF6F61&hide_border=true" alt="Rana718's GitHub Streak" /></a>
 
 
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rana718&layout=compact&langs_count=10&theme=dark)-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rana718&layout=compact&langs_count=7&theme=dark)-->
 - Here’s a fun representation of my GitHub contributions!
 ![snake gif](https://github.com/Rana718/Rana718/blob/output/github-snake-dark.svg)
 
-<!--![Profile Views](https://visitcount.itsvg.in/api?id=Rana718&icon=0&color=0)-->
-<a href="http://www.github.com/Rana718"><img src="https://visitcount.itsvg.in/api?id=Rana718&icon=0&color=0" alt="Profile Views" /></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rana718&color=green)
 
 
 Let's connect and create something amazing together! -->
