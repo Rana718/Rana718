@@ -24,14 +24,17 @@ I'm a passionate **BTech student** diving deep into the worlds of:
 
 
 ## Frameworks/Libraries 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,reactnative,expo,redux,zustand,authjs,clerk,threejs,tailwind,bootstrap,nodejs,expressjs,hono,django,flask,fastapi,meteorjs,socketio,selenium&perline=12)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,reactnative,expo,redux,zustand,authjs,clerk,threejs,tailwind,bootstrap,nodejs,expressjs,hono,django,flask,fastapi,meteorjs,socketio,selenium,electron&perline=12)
+
 
 
 ## Databases  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,firebase,redis,prisma,drizzle)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,firebase,redis,prisma,drizzle,supabase&perline=12)
+
 
 ## DevOps  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,githubactions,ngrok,aws,nginx,cloudflare,vercel,render,railway)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,githubactions,ngrok,aws,nginx,cloudflare,vercel,render,railway,kafka&perline=12)
+
 
 ## IDEs  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=neovim,vim,vscode,zed,androidstudio,visualstudio,idea,pycharm)  
@@ -44,7 +47,7 @@ I'm a passionate **BTech student** diving deep into the worlds of:
 
 ## 📊 GitHub Stats
 
-![Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rana718&show_icons=true&theme=radical)
+![Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rana718&show_icons=true&theme=radical&count_private=true)
 
 <!--<a href="http://www.github.com/Rana718"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rana718&stroke=FF6F61&background=1E1E2E&ring=FF6F61&fire=FF6F61&currStreakNum=FF6F61&currStreakLabel=FF6F61&sideNums=FF6F61&sideLabels=FF6F61&dates=FF6F61&hide_border=true" alt="Rana718's GitHub Streak" /></a>
 
