@@ -19,37 +19,38 @@ I'm a passionate **BTech student** diving deep into the worlds of:
 
 
 # 🚀 Technologies & Tools
-## Languages  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,c,cpp,go,python,rust,kotlin,solidity,bash,powershell&perline=12)  
-
-
-## Frameworks/Libraries 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,reactnative,expo,redux,zustand,authjs,clerk,threejs,tailwind,bootstrap,nodejs,expressjs,hono,django,flask,fastapi,meteorjs,socketio,selenium,electron&perline=12)
+## 🧠 Languages  
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,c,cpp,css,html,js,ts,go,python,kotlin,powershell,rust,solidity&perline=12)
 
 
 
-## Databases  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,firebase,redis,prisma,drizzle,supabase&perline=12)
+## ⚛️ Frameworks / Libraries   
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactnative,electron,expo,tailwind,bootstrap,threejs,gsap,redux,zustand,authjs,clerk,nodejs,expressjs,hono,django,flask,fastapi,meteorjs,fiber,gin,trpc,grpc,socketio,selenium,langchain,huggingface&perline=12)
 
 
-## DevOps  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,githubactions,ngrok,aws,nginx,cloudflare,vercel,render,railway,kafka&perline=12)
+## 🗄️ Databases & ORMs  
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,firebase,redis,supabase,duckdb,pinecone,prisma,drizzle,gorm&perline=12)
 
 
-## IDEs  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=neovim,vim,vscode,zed,androidstudio,visualstudio,idea,pycharm)  
+## ⚙️ DevOps / Cloud 
+![Containers](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm,argocd,grafana,prometheus,nginx,ngrok,vercel,render,railway,cloudflare,aws,githubactions,kafka,rabbitmq&perline=12)
 
-## Tools  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pnpm,bun,deno,gradle,git,vite,jetpackcompose,github,postman,wsl,figma)  
 
-## Familiar Operating Systems  
+## 🧰 Tools  
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,pnpm,bun,deno,vite,gradle,jetpackcompose,wsl,figma&perline=12)
+
+## 🧑‍💻 IDEs / Editors  
+![IDEs](https://go-skill-icons.vercel.app/api/icons?i=vscode,neovim,vim,zed,androidstudio,visualstudio,idea,pycharm,datagrip,goland&perline=12)
+
+
+## 🖥️ Familiar Operating Systems  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,arch,kali)
 
 ## 📊 GitHub Stats
 
 ![Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rana718&show_icons=true&theme=radical&count_private=true)
 
-<!--<a href="http://www.github.com/Rana718"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rana718&stroke=FF6F61&background=1E1E2E&ring=FF6F61&fire=FF6F61&currStreakNum=FF6F61&currStreakLabel=FF6F61&sideNums=FF6F61&sideLabels=FF6F61&dates=FF6F61&hide_border=true" alt="Rana718's GitHub Streak" /></a>
+<!--<a href="http://www.github.com/Rana718"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rana718&stroke=FF6F61&background=1E1E2E&ring=FF6F61&fire=FF6F61&currStreakNum=FF6F61&currStreakLabel=FF6F61&sideNums=FF6F61&sideLabels=FF6F61&dates=FF6F61&hide_border=true" alt="Rana718's GitHub Streak" /></a>-->
 
 
 
