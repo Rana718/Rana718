@@ -50,11 +50,9 @@ I'm a passionate **BTech student** diving deep into the worlds of:
 
 ![Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rana718&show_icons=true&theme=radical&count_private=true)
 
-<!--<a href="http://www.github.com/Rana718"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rana718&stroke=FF6F61&background=1E1E2E&ring=FF6F61&fire=FF6F61&currStreakNum=FF6F61&currStreakLabel=FF6F61&sideNums=FF6F61&sideLabels=FF6F61&dates=FF6F61&hide_border=true" alt="Rana718's GitHub Streak" /></a>-->
+<a href="http://www.github.com/Rana718"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rana718&stroke=FF6F61&background=1E1E2E&ring=FF6F61&fire=FF6F61&currStreakNum=FF6F61&currStreakLabel=FF6F61&sideNums=FF6F61&sideLabels=FF6F61&dates=FF6F61&hide_border=true" alt="Rana718's GitHub Streak" /></a>
 
 
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rana718&layout=compact&langs_count=7&theme=dark)-->
 - Here’s a fun representation of my GitHub contributions!
 ![snake gif](https://github.com/Rana718/Rana718/blob/output/github-snake-dark.svg)
 
