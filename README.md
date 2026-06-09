@@ -1,21 +1,37 @@
-# 👋 Hi there, I'm Rana Dolui!  
+# 👋 Hi, I'm Rana Dolui
 
-## 🌟 About Me  
-I'm a passionate **BTech student** diving deep into the worlds of:  
-- 🌐 Web Development
-- 📱 App Development 
-- 🔗 Web3  
-- 🤖 AI/ML  
-- 🛡️ Cybersecurity   
+## 🚀 About Me
 
-### 🚀 Quick Highlights  
-- 🎓 Currently pursuing my BTech degree  
-- 💡 Constantly pushing boundaries and learning  
-- 🤝 Open to exciting collaborations and challenges  
+I'm a software engineer passionate about building scalable applications, AI-powered systems, and developer tools.
+
+My interests include:
+
+* 🌐 Full-Stack Development
+* 📱 Mobile Development
+* 🤖 AI/ML & LLMs
+* ⚡ Backend & Distributed Systems
+* ☁️ Cloud & DevOps
+
+I enjoy designing high-performance systems, experimenting with new technologies, contributing to open-source projects, and transforming ideas into real-world products.
+
+### 🎯 Currently Exploring
+* AI Agents & Autonomous Systems
+* Local LLM Deployment
+* Rust Systems Programming
+* GPU Computing & AI Infrastructure
+
+Always learning, building, and shipping new ideas.
 
 
-## 💬 Connect With Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://ranadolui.me) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ranad187)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-dolui-89357728a/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranadolui718@gmail.com)  
+---
+
+## 💬 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge\&logo=vercel\&logoColor=white)](https://ranadolui.me)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=x\&logoColor=white)](https://twitter.com/Ranad187)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rana-dolui-89357728a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ranadolui718@gmail.com)
+
 
 
 # 🚀 Technologies & Tools
@@ -25,7 +41,7 @@ I'm a passionate **BTech student** diving deep into the worlds of:
 
 
 ## ⚛️ Frameworks / Libraries   
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactnative,electron,expo,tailwind,bootstrap,threejs,gsap,redux,zustand,authjs,clerk,nodejs,expressjs,hono,django,flask,fastapi,meteorjs,fiber,gin,trpc,grpc,socketio,selenium,langchain,huggingface&perline=12)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactnative,electron,expo,tailwind,bootstrap,threejs,gsap,redux,zustand,authjs,clerk,nodejs,expressjs,hono,django,flask,fastapi,meteorjs,fiber,gin,trpc,grpc,socketio,selenium,langchain,huggingface,graphql,apollo,tensorflow,pytorch&perline=12)
 
 
 ## 🗄️ Databases & ORMs  
@@ -33,18 +49,13 @@ I'm a passionate **BTech student** diving deep into the worlds of:
 
 
 ## ⚙️ DevOps / Cloud 
-![Containers](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm,argocd,grafana,prometheus,nginx,ngrok,vercel,render,railway,cloudflare,aws,githubactions,kafka,rabbitmq&perline=12)
+![Containers](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm,argocd,grafana,prometheus,nginx,ngrok,vercel,cloudflare,aws,gcp,githubactions,kafka,rabbitmq,terraform,linux&perline=12)
 
 
 ## 🧰 Tools  
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,pnpm,bun,deno,vite,gradle,jetpackcompose,wsl,figma&perline=12)
-
-## 🧑‍💻 IDEs / Editors  
-![IDEs](https://go-skill-icons.vercel.app/api/icons?i=vscode,neovim,vim,zed,androidstudio,visualstudio,idea,pycharm,datagrip,goland&perline=12)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,pnpm,bun,deno,vite,gradle,jetpackcompose,wsl,figma,androidstudio&perline=12)
 
 
-## 🖥️ Familiar Operating Systems  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,arch,kali)
 
 ## 📊 GitHub Stats
 
